@@ -3,8 +3,7 @@
     "description": "My first Composer project",
     "authors": [
         {
-            "name": "Sanjoy Dey",
-            "email": "dey.sanjoy0@gmail.com"
+            "name": "Eric",
         }
     ],
     "minimum-stability": "dev",
